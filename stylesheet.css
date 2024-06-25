@@ -1,4 +1,4 @@
-body {
+Fbody {
 	/*background-color: #FFDAB9;	*/
 	background-color: #000;
 	-webkit-transition:background-color linear 5s;
@@ -1266,7 +1266,7 @@ audio {
 	bottom: 0;
 	padding:10px 0px 10px 0px;
 }
-#play, #bannar_coming, #balloons_flying,#cake_fadein,#light_candle,#wish_message,#story,#notes,#notes1,#notes2,#notes3,#notes4 {
+#play, #bannar_coming, #balloons_flying,#cake_fadein,#light_candle,#wish_message,#story,#notes,#notes1,#notes2,#notes3,#notes4,#notes5,#notes6 {
 	display: none;
 }
 
