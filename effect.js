@@ -223,8 +223,6 @@ $('document').ready(function(){
 		$('#notes2').fadeIn('slow')
 		$('#notes3').fadeIn('slow')
 		$('#notes4').fadeIn('slow')
-		$('#notes5').fadeIn('slow')
-		$('#notes6').fadeIn('slow')
 		});
 });
 
