@@ -1,0 +1,37 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center; /* Mengatur agar semua teks di dalam body berada di tengah */
+}
+
+h1 {
+    font-size: 24px; /* Ukuran font judul */
+    font-weight: normal; /* Menghilangkan tebal pada judul */
+}
+
+p {
+    font-size: 18px; /* Ukuran font paragraf */
+    line-height: 1.6; /* Jarak antara baris */
+    margin: 0 auto; /* Mengatur margin secara otomatis agar paragraf berada di tengah */
+    max-width: 600px; /* Maksimum lebar konten */
+    text-align: justify; /* Rata kanan dan kiri */
+}
+
+.btn-primary {
+    border-color: #466baf;
+    padding: 10px;
+    text-transform: uppercase;
+    font-family: 'Signika', sans-serif;
+    font-weight: 700;
+    color: #fff;
+    background-color: #466baf;
+    align-items: center;
+}
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active,
+.btn-primary.active,
+.open .dropdown-toggle.btn-primary {
+    border-color: #fff;
+    color: #fff;
+    background-color: #466baf;
+}
